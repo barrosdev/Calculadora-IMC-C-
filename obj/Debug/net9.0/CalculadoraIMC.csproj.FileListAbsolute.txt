@@ -1,0 +1,14 @@
+c:\Users\uSER\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.exe
+C:\Users\uSER\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.deps.json
+C:\Users\uSER\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.runtimeconfig.json
+c:\Users\uSER\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.dll
+c:\Users\uSER\CalculadoraIMC\bin\Debug\net9.0\CalculadoraIMC.pdb
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.AssemblyInfoInputs.cache
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.AssemblyInfo.cs
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.dll
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\refint\CalculadoraIMC.dll
+c:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.pdb
+C:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\uSER\CalculadoraIMC\obj\Debug\net9.0\ref\CalculadoraIMC.dll
